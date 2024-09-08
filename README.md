@@ -20,8 +20,7 @@ I'm a passionate software engineer with experience in developing efficient and s
 - 📫 How to reach me: [reyvienepasiculan7@gmail.com](mailto:reyvienepaisculan7@gmail.com)
   
 </div>
-<hr>
-
+<hr style="border: none; border-top: 1px solid #ccc;" />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/ssupreyo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ssupreyo" height="30" width="40" /></a>
@@ -34,7 +33,7 @@ I'm a passionate software engineer with experience in developing efficient and s
 
 <div align="left">
 
-<hr>
+<hr style="border: none; border-top: 1px solid #ccc;" />
 
 ### Frontend Tools
 <p>
@@ -56,7 +55,7 @@ I'm a passionate software engineer with experience in developing efficient and s
   <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a>
 </p>
 
-<hr>
+<hr style="border: none; border-top: 1px solid #ccc;" />
 
 ### Backend Tools
 <p>
@@ -80,7 +79,7 @@ I'm a passionate software engineer with experience in developing efficient and s
   </a>
 </p>
 
-<hr>
+<hr style="border: none; border-top: 1px solid #ccc;" />
 
 ### Languages
 <p>
