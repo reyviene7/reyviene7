@@ -20,6 +20,7 @@ I'm a passionate software engineer with experience in developing efficient and s
 - 📫 How to reach me: [reyvienepasiculan7@gmail.com](mailto:reyvienepaisculan7@gmail.com)
   
 </div>
+<hr>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -31,11 +32,9 @@ I'm a passionate software engineer with experience in developing efficient and s
 <a href="https://instagram.com/ssupreyo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ssupreyo" height="30" width="40" /></a>
 </p>
 
-<br/>
-
 <div align="left">
 
----
+<hr>
 
 ### Frontend Tools
 <p>
@@ -57,7 +56,7 @@ I'm a passionate software engineer with experience in developing efficient and s
   <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a>
 </p>
 
----
+<hr>
 
 ### Backend Tools
 <p>
@@ -81,7 +80,7 @@ I'm a passionate software engineer with experience in developing efficient and s
   </a>
 </p>
 
----
+<hr>
 
 ### Languages
 <p>
