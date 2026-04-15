@@ -1,71 +1,118 @@
-<h1 align="center">Hi 👋, I'm Rey Viene Dean Pasiculan</h1>
-<h3 align="center">Software Engineer | Problem Solver | Tech Enthusiast</h3>
+<div align="center">
 
-###
+# Rey Viene Dean Pasiculan
 
-<img align="right" height="150" src="https://media1.tenor.com/m/c8jAF2BN2HQAAAAC/yamato-anime.gif"  />
+**Full-Stack Software Engineer · Problem Solver · Tech Enthusiast**
 
-###
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-reyviene7-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/reyviene7)
+[![GitHub](https://img.shields.io/badge/GitHub-reyviene7-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/reyviene7)
+[![Dev.to](https://img.shields.io/badge/Dev.to-reyviene7-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/reyviene7)
+[![Email](https://img.shields.io/badge/Email-reyvienepasiculan7@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:reyvienepasiculan7@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=reyviene7&style=flat-square&color=0e75b6)](https://github.com/reyviene7)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=reyviene7&label=Profile%20views&color=0e75b6&style=flat" alt="reyviene7" /> </p>
-
-<div align="left">
-  
-### About Me
-I'm a passionate software engineer with experience in developing efficient and scalable applications across a variety of tech stacks. With a focus on both frontend and backend technologies, I aim to deliver intuitive user experiences and robust server-side architectures. I'm always eager to learn, grow, and collaborate on projects that make an impact.
-
-- 🌱 I’m currently diving deeper into cloud computing and serverless architectures.
-- 💼 Open to collaboration on innovative projects, especially those that involve full-stack development.
-- 🛠 My tech stack includes both frontend and backend technologies listed below.
-- 📫 How to reach me: [reyvienepasiculan7@gmail.com](mailto:reyvienepaisculan7@gmail.com)
-  
 </div>
-<hr style="border: none; border-top: 1px solid #ccc;" />
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/ssupreyo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ssupreyo" height="30" width="40" /></a>
-<a href="https://dev.to/reyviene7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="reyviene7" height="30" width="40" /></a>
-<a href="https://twitter.com/rrreeeeyyyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rrreeeeyyyy" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/reyviene7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="reyviene7" height="30" width="40" /></a>
-<a href="https://fb.com/reyviene7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="reyviene7" height="30" width="40" /></a>
-<a href="https://instagram.com/ssupreyo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ssupreyo" height="30" width="40" /></a>
-</p>
 
-<div align="left">
+---
 
-<hr style="border: none; border-top: 1px solid #ccc;" />
+## About Me
 
-### Frontend Tools
-<p>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
-  <a href="https://vitejs.dev/" target="_blank"><img src="https://vitejs.dev/logo.svg" alt="Vite" width="40" height="40"/></a>
-  <a href="https://nextjs.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="Next.js" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/></a>
-  <a href="https://expo.dev/" target="_blank"><img src="https://avatars.githubusercontent.com/u/12504344?s=200&v=4" alt="Expo" width="40" height="40"/></a>
-  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a>
-</p>
+Full-Stack Software Engineer with **4 years of experience** building scalable web, mobile, and desktop applications. I specialize in delivering end-to-end products — from architecture and frontend to DevOps and deployment.
 
-<hr style="border: none; border-top: 1px solid #ccc;" />
+Notable work includes architecting a **multi-platform POS & inventory system** now live across 10+ businesses, and a **Zigbee-based smart home automation platform** with real-time device control and rule-based automation. I thrive in fast-paced remote environments and take full ownership of the development lifecycle.
 
-### Backend Tools
-<p>
-  <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
-  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" alt="Flask" width="40" height="40"/></a>
-  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/1280px-Django_logo.svg.png" alt="Django" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
-  <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/></a>
-</p>
+- 🏢 Previously at **DarkAge** as a Software Engineer (Jun 2024 – Feb 2026)
+- 🎓 **BS Computer Science** — Mindanao State University – IIT (2020–2025)
+- 🌱 Currently exploring **cloud computing** and **serverless architectures**
+- 🤝 Open to collaboration on impactful full-stack projects
+- 📍 Based in **Iligan City, Philippines**
 
-<hr style="border: none; border-top: 1px solid #ccc;" />
+---
+
+## 🛠 Tech Stack
 
 ### Languages
-<p>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a>
-  <a href="https://www.javascript.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/></a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-  <a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
-</p>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
+
+---
+
+## 🚀 Notable Projects
+
+| Project | Stack | Highlights |
+|---|---|---|
+| **The POS Wizard** | C#, React Native, Spring Boot, PostgreSQL | Multi-platform POS & inventory system deployed in 10+ businesses; ~70% reduction in manual inventory errors |
+| **Zigbee Smart Home Platform** | Node.js, React Native, MQTT | IoT automation for 6+ device types with rule engine, scene management & real-time sync |
+| **TriNova Smart Solutions** | React, TailwindCSS, PostgreSQL | Enterprise multi-module Web POS — Retail, Laundry, Water Refilling, Analytics with RBAC |
+| **Ensense Beauty Platform** | React, NestJS, PostgreSQL, Cloudinary | Full digital presence with online booking, client management & staff admin dashboard |
+| **Auto & Aircon Services** | Vite, React Native, NestJS, MariaDB | Multi-platform booking & job-tracking system with technician scheduling |
+| **EggCited Mobile POS** | React Native, Spring Boot, MariaDB | Mobile POS with barcode scanning, receipt generation & cloud-synced catalog |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Rey's GitHub Stats](https://github-readme-stats.vercel.app/api?username=reyviene7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reyviene7&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/reyviene7)
+[![Email](https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reyvienepasiculan7@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rrreeeeyyyy)
+[![CodePen](https://img.shields.io/badge/CodePen-View_Work-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/ssupreyo)
+
+</div>
+
+---
+
+<div align="center">
+  <sub>Always building. Always learning.</sub>
 </div>
