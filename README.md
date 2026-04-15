@@ -20,8 +20,6 @@ Full-Stack Software Engineer with **4 years of experience** building scalable we
 
 Notable work includes architecting a **multi-platform POS & inventory system** now live across 10+ businesses, and a **Zigbee-based smart home automation platform** with real-time device control and rule-based automation. I thrive in fast-paced remote environments and take full ownership of the development lifecycle.
 
-- 🏢 Previously at **DarkAge** as a Software Engineer (Jun 2024 – Feb 2026)
-- 🎓 **BS Computer Science** — Mindanao State University – IIT (2020–2025)
 - 🌱 Currently exploring **cloud computing** and **serverless architectures**
 - 🤝 Open to collaboration on impactful full-stack projects
 - 📍 Based in **Iligan City, Philippines**
@@ -76,38 +74,13 @@ Notable work includes architecting a **multi-platform POS & inventory system** n
 
 ---
 
-## 🚀 Notable Projects
-
-| Project | Stack | Highlights |
-|---|---|---|
-| **The POS Wizard** | C#, React Native, Spring Boot, PostgreSQL | Multi-platform POS & inventory system deployed in 10+ businesses; ~70% reduction in manual inventory errors |
-| **Zigbee Smart Home Platform** | Node.js, React Native, MQTT | IoT automation for 6+ device types with rule engine, scene management & real-time sync |
-| **TriNova Smart Solutions** | React, TailwindCSS, PostgreSQL | Enterprise multi-module Web POS — Retail, Laundry, Water Refilling, Analytics with RBAC |
-| **Ensense Beauty Platform** | React, NestJS, PostgreSQL, Cloudinary | Full digital presence with online booking, client management & staff admin dashboard |
-| **Auto & Aircon Services** | Vite, React Native, NestJS, MariaDB | Multi-platform booking & job-tracking system with technician scheduling |
-| **EggCited Mobile POS** | React Native, Spring Boot, MariaDB | Mobile POS with barcode scanning, receipt generation & cloud-synced catalog |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Rey's GitHub Stats](https://github-readme-stats.vercel.app/api?username=reyviene7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reyviene7&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-</div>
-
----
-
 ## 🤝 Connect With Me
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/reyviene7)
 [![Email](https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reyvienepasiculan7@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rrreeeeyyyy)
-[![CodePen](https://img.shields.io/badge/CodePen-View_Work-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/ssupreyo)
+[![CodePen]((https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white))](https://www.instagram.com/ssupreyo/)
 
 </div>
 
