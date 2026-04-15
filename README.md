@@ -80,7 +80,7 @@ Notable work includes architecting a **multi-platform POS & inventory system** n
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/reyviene7)
 [![Email](https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reyvienepasiculan7@gmail.com)
-[![Instagram]((https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white))](https://www.instagram.com/ssupreyo/)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white))](https://www.instagram.com/ssupreyo/)
 
 </div>
 
